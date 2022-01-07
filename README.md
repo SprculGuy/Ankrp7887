@@ -39,10 +39,10 @@
 <br />
 
 [website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/Ankit21842742
 [youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://www.instagram.com/_._sprculguy.ankit.7887_._
+[linkedin]: https://www.linkedin.com/in/ankit-patil-b214521b2
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
