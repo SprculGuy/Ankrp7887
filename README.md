@@ -4,7 +4,6 @@
 - 🔭 I’m currently studying CS Engineering 
 - 🌱 I’m currently learning everything
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play in-door as well as outdoor games
 
 ### Connect with me:
 
